@@ -1,0 +1,58 @@
+body{
+    background-color: blanchedalmond;
+ margin: 0px;
+}
+
+  
+.static{
+  background-color: lawngreen;
+  width: 200px;
+  height: 200px;
+  position: static;
+  top: 100px;
+  left: 200px;
+
+}
+.relative{
+  background-color: rgba(252, 59, 0, 0.712);
+width: 200px;
+height: 200px;
+position: relative;
+left: 200px;
+bottom: 200px;
+}
+
+.re{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  position: relative;
+left: 400px;
+bottom: 400px;
+}
+.absolute{
+  background-color: azure;
+  width: 1900px;
+  height: 1000px;
+  position: relative;
+  }
+  
+  .A{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+top: 0px;
+left: 200px;
+  
+  }
+  
+  .B{
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  right: 0px;
+  }
+  
+
